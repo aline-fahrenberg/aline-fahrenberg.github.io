@@ -232,7 +232,7 @@ ul {
 
 h1, h2, h3, q, #header *, #footer *, .headerTitle, .sideBox div, .topOfPage
 { 
-  /* Text Color: */  color: green; 
+  /* Text Color: */  color: blue; 
 }
 
 #bodyText a {
@@ -241,11 +241,11 @@ h1, h2, h3, q, #header *, #footer *, .headerTitle, .sideBox div, .topOfPage
 }
 
 #bodyText a:visited {
-  color: green;
+  color: blue;
 }
 
 h1, q,  #header, .sideBox, .sideBox div
-{ /* Border Color: */  border-color: green; }
+{ /* Border Color: */  border-color: blue; }
 
 #header, .sideBox div, .sideBox .thisPage
 { /* Background Color (darker): */  background-color: #f0fff0; }
