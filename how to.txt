@@ -1,10 +1,16 @@
+---TO START
+
 Open terminal.
 
 [cd to wherever you want to be]
 
-git clone git@github.com:aline-fahrenber
+git clone git@github.com:aline-fahrenberg/aline-fahrenberg.github.io.git
 
 cd aline-fahrenberg.github.io/
+
+---TO CONTINUE
+
+git pull
 
 gedit index.html &
 
@@ -16,5 +22,6 @@ git push
 
 [... wait a bit ...]
 
+---
 
 https://aline-fahrenberg.github.io
