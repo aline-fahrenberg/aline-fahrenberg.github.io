@@ -236,7 +236,7 @@ h1, h2, h3, q, #header *, #footer *, .headerTitle, .sideBox div, .topOfPage
 }
 
 #bodyText a {
-  color: red;
+  color: green;
   border-bottom-color: red;
 }
 
